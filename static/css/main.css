@@ -98,6 +98,16 @@ h2 { text-align: left;
 
 .ten{
     text-align: center;
+    text-decoration: underline;
+    color: rgb(0, 0, 0);
+    font-family: Shanti;
+    font-size: 2em;
+    margin:  10px ;
+}
+
+.descarga{
+    text-align: center;
+    text-decoration: underline;
     color: rgb(0, 0, 0);
     font-family: Shanti;
     font-size: 2em;
