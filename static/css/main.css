@@ -106,12 +106,9 @@ h2 { text-align: left;
 }
 
 .descarga{
-    text-align: center;
-    text-decoration: underline;
-    color: rgb(0, 0, 0);
-    font-family: Shanti;
-    font-size: 2em;
-    margin:  10px ;
+    
+    color: rgb(255, 0, 0);
+    
 }
 
 
